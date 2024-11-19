@@ -1,0 +1,4 @@
+C:\Users\alex\source\repos\REST-tutorial\obj\Any CPU\Debug\REST-tutorial.pyproj.SuggestedBindingRedirects.cache
+C:\Users\alex\source\repos\REST-tutorial\obj\Any CPU\Debug\REST-tutorial.pyproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\REST-tutorial\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\alex\source\repos\REST-tutorial\bin\wfastcgi.py
